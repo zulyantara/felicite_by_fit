@@ -1,0 +1,1 @@
+<?php echo $message; ?> <a href="<?php echo base_url("pegawai/"); ?>" class="uk-button uk-button-danger">List Pegawai</a>

@@ -1,0 +1,1 @@
+<?php echo $message; ?> <a href="<?php echo base_url("customer/"); ?>" class="uk-button uk-button-danger">List Customer</a>
